@@ -16,7 +16,7 @@ Repositório criado para o desafio de projeto, incluir atividades da [Digital In
 <p> ☑ Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso  <br> </p>
 
 # Conhecendo a Linguagem de Programação Java
-<p> Introdução à Plataforma Java  <br> </p>
+<p> ☑ Introdução à Plataforma Java  <br> </p>
 <p> Ambiente de Desenvolvimento Java <br> </p>
 <p> Aprendendo a Sintaxe Java <br> </p>
 <p> Lógica Condicional e Controle de Fluxos em Java <br> </p>
